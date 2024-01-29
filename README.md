@@ -1,4 +1,4 @@
-# The Complete Guide To Building A REST API With Node, Express, TypeScript & MongoDB
+# A REST API With Node, Express, TypeScript & MongoDB
 
 This is a repository for a REST API using Node, Express, Typescript & MongoDB.
 
