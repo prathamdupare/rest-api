@@ -16,8 +16,7 @@ app.use(compression());
 app.use(cookieParser());
 app.use(bodyParser.json());
 
-const MONGO_URL =
-  "mongodb+srv://blog:blog@cluster0.4c3pw73.mongodb.net/?retryWrites=true&w=majority";
+const MONGO_URL = ""; // insert MongoDb URL here
 
 const server = http.createServer(app);
 
